@@ -406,6 +406,7 @@ In addition to any aliases that you configure, Azure Pipelines images have the f
 
 | Azure Pipelines image | Predefined alias |
 |-----------------------|------------------|
+| Azure Pipelines - Windows Server 2022 | `windows-2025` |
 | Azure Pipelines - Windows Server 2022 | `windows-2022` |
 | Azure Pipelines - Windows Server 2019 | `windows-2019` |
 | Azure Pipelines - Ubuntu 24.04 | `ubuntu-24.04` |
